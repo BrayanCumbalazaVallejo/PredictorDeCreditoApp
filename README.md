@@ -1,2 +1,2 @@
-# PredictorDeCreditoApp
-Predictor para evaluador Riesgo Crediticio
+# app-de-riesgo
+
